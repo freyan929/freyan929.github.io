@@ -22,4 +22,4 @@ As I prepare to graduate in May 2025 as a CS major with a planned minor in Econo
 
 As you could probably guess, being a college student takes up quite a bit of my day. Then all the rest of the time I'm probably trying new foods, making heishi bracelets, or [taking amateur photos][vsco-link].
 
-[vsco-link]: vsco.co/freyanair
+[vsco-link]: https://vsco.co/freyanair/gallery
