@@ -16,29 +16,39 @@ Description: A mobile app offering centralization for discovering student-run ev
 {% endhighlight %}
 
 `Prototypical hosted by GT - April 2022`
+{% highlight python %}
 TechStack: Cardboard and compostable materials. Equipment in makerspace.
 Project Title: My Neighbor Coastoro
 Description: A group of CS and ME majors come together in the invention studio to create a cardboard, Totoro-themed drink holder.
+{% endhighlight %}
 
-`DigitalHealth.Rx Hackathon hosted by APhA - March 2022
+`DigitalHealth.Rx Hackathon hosted by APhA - March 2022`
+{% highlight python %}
 Student Leadership Team Member
-Description: Developed an inaugural TechxHealthcare hackathon for the American Pharmacists Association in 66 days with students from UPMC, VCU, and UCLA. Secured sponsors Pfizer, Phox Health, Omnicell, Coalition for Authorized Generics, and Google Cloud. Offered $8400 in prizes, and saw about 60 participants total.`
+Description: Developed an inaugural TechxHealthcare hackathon for the American Pharmacists Association in 66 days with students from UPMC, VCU, and UCLA. Secured sponsors Pfizer, Phox Health, Omnicell, Coalition for Authorized Generics, and Google Cloud. Offered $8400 in prizes, and saw about 60 participants total.
+{% endhighlight %}
 
-`DiamondHacks hosted by NC State - March 2022
+`DiamondHacks hosted by NC State - March 2022`
+{% highlight python %}
 Winner - Sustainability
 TechStack: Django, Twilio, React Native, Javascript, CSS, GitHub
 Project Title: FoodWise
-Description: A mobile app that doubles as a meal planner and grocery list. Provides a list of food items in a user's possession, along with anticipated expiration dates, suggested recipes to optimize items before expiry, and a grocery list tracker.`
+Description: A mobile app that doubles as a meal planner and grocery list. Provides a list of food items in a user's possession, along with anticipated expiration dates, suggested recipes to optimize items before expiry, and a grocery list tracker.
+{% endhighlight %}
 
-`FemmeHacks.io hosted by UPenn - February 2022
+`FemmeHacks.io hosted by UPenn - February 2022`
+{% highlight python %}
 Won: Best Beginner Hack
 TechStack: HTML, JS, CSS
 Project Title: PlantCare
-Description: Inspired by DesktopGoose, this was a fun web application created to remind hard-working folks to take a break, and to water your plants! Plant care promotes social good by first emphasizing social wellbeing, which fosters more productivity and general wellness. Plant icons were hand drawn.`
+Description: Inspired by DesktopGoose, this was a fun web application created to remind hard-working folks to take a break, and to water your plants! Plant care promotes social good by first emphasizing social wellbeing, which fosters more productivity and general wellness. Plant icons were hand drawn.
+{% endhighlight %}
 
-`TechTogether Seattle - December 2021
+`TechTogether Seattle - December 2021`
+{% highlight python %}
 TechStack: HTML, JS, CSS
 Project Title: Integrate
-Description: An app built with themes of social justice, equity, and travel in mind. The app promotes lesser known attractions in the Emerald City, offering a custom-generated itinerary feature, while strongly encouraging donations to good cause agencies. The app was primarily a prototype made from Figma wireframes, along with basic functional frontend elements.`
+Description: An app built with themes of social justice, equity, and travel in mind. The app promotes lesser known attractions in the Emerald City, offering a custom-generated itinerary feature, while strongly encouraging donations to good cause agencies. The app was primarily a prototype made from Figma wireframes, along with basic functional frontend elements.
+{% endhighlight %}
 
 [hackathon-link]: https://devpost.com/nairfreya
