@@ -7,16 +7,18 @@ categories: Freya update
 
 **Every [Hackathon][hackathon-link] I've Been In**
 
-`YHack hosted by Yale - April 2022
+`YHack hosted by Yale - April 2022`
+{% highlight python %}
 Placed: 3rd on University Track
 TechStack: ReactNative and ExpoCli, Firebase, MapView, JS
 Project Title: Huddle
-Description: A mobile app offering centralization for discovering student-run events, from parties, to school org meetings, to fundraisers, giveaways, and more. App could render title, time, date, and location of user-created events in real-time, and had a working home navigator screen with filters and pinpoints. Attempted to deploy the app on TestFlight.`
+Description: A mobile app offering centralization for discovering student-run events, from parties, to school org meetings, to fundraisers, giveaways, and more. App could render title, time, date, and location of user-created events in real-time, and had a working home navigator screen with filters and pinpoints. Attempted to deploy the app on TestFlight.
+{% endhighlight %}
 
-`Prototypical hosted by GT - April 2022
+`Prototypical hosted by GT - April 2022`
 TechStack: Cardboard and compostable materials. Equipment in makerspace.
 Project Title: My Neighbor Coastoro
-Description: A group of CS and ME majors come together in the invention studio to create a cardboard, Totoro-themed drink holder.`
+Description: A group of CS and ME majors come together in the invention studio to create a cardboard, Totoro-themed drink holder.
 
 `DigitalHealth.Rx Hackathon hosted by APhA - March 2022
 Student Leadership Team Member
